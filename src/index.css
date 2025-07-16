@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --font-family: "Inter", sans-serif;
+    --second-family: "Anglecia Pro Display", serif;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+h1,
+h2 {
+    font-family: var(--second-family);
+}
