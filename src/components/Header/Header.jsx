@@ -3,12 +3,12 @@ const Header = () => {
     <header className="bg-black flex justify-between items-center p-5 md:px-[70px] md:py-[14px] mb-[30px] md:mb-[45px]">
       <a
         href="/"
-        className="font-anglecia font-normal text-[20px] md:text-[24px] text-white"
+        className="font-anglecia text-[20px] md:text-[24px] text-white"
       >
         WatchGenius
       </a>
 
-      <nav className="font-inter font-normal  md:text-[20px] text-white md:flex hidden">
+      <nav className="font-inter text-[20px] text-white md:flex hidden">
         <ul className="flex gap-[50px]">
           <li>
             <a className="">Про нас</a>
@@ -26,8 +26,13 @@ const Header = () => {
         <img
           className="hidden w-[31px] h-[31x] md:flex"
           src="/iconoir_language.svg"
+          alt="language"
         />
-        <img className="md:hidden w-[34px] h-[16x]" src="/Group 2.svg" />
+        <img
+          className="md:hidden w-[32px] h-[14x]"
+          src="/Group 2.svg"
+          alt="menu"
+        />
       </button>
     </header>
   );
