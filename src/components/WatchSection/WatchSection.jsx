@@ -21,13 +21,13 @@ const WatchSection = () => {
           alt="watch"
         />
         <img
-          className="hidden rounded-[5px] md:flex max-w-[641px] h-[367px]  md:mb-0 md:mr-[25px] "
+          className="hidden rounded-[5px] md:flex max-w-[632px] h-[367px]  md:mb-0 md:mr-[20px] "
           src="/image.jpg"
           srcSet="/image.jpg 1x, /image-x2.jpg 2x"
           alt="watch"
         />
 
-        <div className="w-[352px] md:mt-[20px] xl:mt-0 md:w-[627px] ">
+        <div className="w-[352px] md:mt-[20px] xl:mt-0 md:w-[620px] ">
           <h2 className="font-anglecia text-[32px] leading-none md:text-[36px] mb-[15px] md:mb-[20px]">
             Rolex Submariner Oyster Perpetual Date 41mm 126610LV-0002
           </h2>
@@ -39,13 +39,13 @@ const WatchSection = () => {
             <li>Діаметр: 41 мм</li>
           </ul>
 
-          <div className="md:flex md:gap-[32px] md:flex-row-reverse">
+          <div className="md:flex md:gap-[30px] md:flex-row-reverse">
             <h3 className="text-center md:text-left font-anglecia font-normal text-[32px] mb-[30px] md:mb-0 md:text-[40px]">
               19500 грн
             </h3>
 
             <button
-              className="w-[352px] md:w-[413px] font-inter rounded-[5px] text-white font-normal text-[24px] h-[72px] bg-black"
+              className="w-[352px] md:w-[410px] font-inter rounded-[5px] text-white font-normal text-[24px] h-[72px] bg-black"
               type="button"
             >
               Купити
