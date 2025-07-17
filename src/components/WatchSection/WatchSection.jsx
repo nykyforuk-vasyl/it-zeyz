@@ -1,6 +1,6 @@
 const WatchSection = () => {
   return (
-    <section className="relative flex items-center md:items-start flex-col px-5 mb-[50px] md:mb-[37px]">
+    <section className="relative flex items-center md:items-start flex-col px-5 mb-[50px] md:px-[70px] md:mb-[37px]">
       <div className="w-full mb-[30px] md:mb-[25px]">
         <button type="button" className="flex gap-2 items-center">
           <img

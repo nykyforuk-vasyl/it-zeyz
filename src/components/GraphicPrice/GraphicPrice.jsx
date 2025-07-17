@@ -17,7 +17,7 @@ const GraphicPrice = () => {
   const currentData = period === "year" ? dataYear : data3m;
 
   return (
-    <section className="flex flex-col px-5 mb-[60px] md:mb-[50px]">
+    <section className="flex flex-col px-5 md:px-[70px] mb-[60px] md:mb-[50px]">
       <h2 className="font-anglecia text-center md:text-left text-[32px] md:text-[40px] mb-[25px] md:mb-[30px]">
         Графік цін
       </h2>
