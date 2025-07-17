@@ -9,7 +9,7 @@ const Footer = () => {
       </a>
 
       <address className="text-white text-[20px] font-normal items-center flex-col md:flex-row justify-center flex">
-        <p className="md:mr-[60px] not-italic md:mb-[0px] mb-[60px]">
+        <p className="md:mr-[60px] font-inter not-italic md:mb-[0px] mb-[60px]">
           Політика конфедеційності
         </p>
         <a className="" href="tel:+380956156714">

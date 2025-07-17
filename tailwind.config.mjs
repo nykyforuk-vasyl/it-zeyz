@@ -4,7 +4,7 @@
     extend: {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
-        anglecia: ['"Anglecia Pro Display"', "sans-serif"],
+        anglecia: ['"Playfair Display"', "serif"],
       },
     },
   },
